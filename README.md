@@ -62,7 +62,8 @@ endmodule
 
 
 **Output Timing Waveform**
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/db659efa-f995-485e-8b5e-0a81f5e59c34)
+
 
 
 **Result:**
